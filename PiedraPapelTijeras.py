@@ -1,6 +1,6 @@
 import random
 
-choices = ['piedra', 'papel', 'tijera']
+choices = ['piedra', 'papel', 'tijera'] 
 
 
 name = input('Ingresa tu nombre guerrero: ')
